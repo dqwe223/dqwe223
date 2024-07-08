@@ -21,8 +21,8 @@
 
 - 💬 Ask me about **C, C++, HTML, CSS, JavaScript, PHP, MySQL.**
 
-<a href="https://www.github.com/KaviniPramudika" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/KaviniPramudika?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
+<a href="https://github.com/dqwe223" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/dqwe223?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
