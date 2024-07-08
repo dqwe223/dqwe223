@@ -9,12 +9,13 @@
 
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-  <a href="mailto:kaviniwickramasooriya@gmail.com">kaviniwickramasooriya@gmail.com</a> |
-  <a href="https://kavini-wickramasooriya.pages.dev/">Portfolio</a> |
-  <a href="https://www.linkedin.com/in/kavini-wickramasooriya-937a70179/">LinkedIn</a>
+  <a href="mailto:irukamihishanx@gmail.com">irukamihishanx@gmail.com</a> |
+  <a href="https://irukawcs.blogspot.com/">Portfolio</a> |
+  <a href="https://irukawcs.blogspot.com/">Blogger</a> |
+  <a href="https://www.instagram.com/iruka_mihishan/">LinkedIn</a>
 </p>
 
-- 🌱 I’m currently learning **Java, MERN Stack, Python.**
+- 🌱 I’m currently learning **Java, Python ,c.**
 
 - 🤝 I’m looking for help with **web development projects.**
 
