@@ -209,28 +209,14 @@ src="https://img.shields.io/github/followers/dqwe223?logo=github&style=for-the-b
 <b>My GitHub Stats</b>
 
 
-
-<p align="center"> 
-<img align="center" width="500px" src="@/../page-insights.svg" alt="Github Insight"/>
-</p>  
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrohitofficial&theme=gotham&layout=compact"width="40%"/> 
-</p>
-
-<p align="center">
-<a href="https://github.com/jrohitofficial?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jrohitofficial&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/></a>
-<a href="https://github.com/jrohitofficial?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=jrohitofficial&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
-</p>
-
-
-
-
 <a href="https://github.com/dqwe223" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqwe223&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/dqwe223"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dqwe223&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="KaviniPramudika's GitHub stats" /></a>
 
 <a href="http://www.github.com/dqwe223"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dqwe223&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
 
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
