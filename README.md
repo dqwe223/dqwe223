@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/dqwe223?logo=github&style=for-the-b
 
 
 <h3 align="left">Languages and Tools:</h3>
-####
+
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -157,7 +157,7 @@ src="https://img.shields.io/github/followers/dqwe223?logo=github&style=for-the-b
 <br><br>
 </table>
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+<img src="gif/wline.gif?raw=true">
 
 
 <p align="left">
