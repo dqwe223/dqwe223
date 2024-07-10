@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&height=18&width=340&vCenter=true&lines=Welcome+To+My+GITHUB+Profile..." > </h1>
 
-<p align="center"><img alt="Coding" width="80%" src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/hi1.gif"></p>
+<p align="center"><img alt="Coding" width="80%" src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/hi1.gif"></p>
 
 <h1 align="center">Hi 👋 there, I'm Iruka Mihishan</h1>
 
@@ -157,7 +157,7 @@ src="https://img.shields.io/github/followers/dqwe223?logo=github&style=for-the-b
 <br><br>
 </table>
 
-
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 
 <p align="left">
