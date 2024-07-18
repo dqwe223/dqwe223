@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/dqwe223?logo=github&style=for-the-b
 <p align="left">
 <a href="https://fb.com/iruka.mihishan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavini.pramudika" height="30" width="40" /></a>
 <a href="https://www.instagram.com/iruka_mihishan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavini_pramudika" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/omer-akrum-/"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg' alt="kavini_pramudika" height="30" width="40"></a>
+<a href="https://www.linkedin.com/in/omer-akrum-/" target="blank"><img align="center" src="https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg" alt="kavini_pramudika" height="30" width="40"></a>
 </p>
 
 
