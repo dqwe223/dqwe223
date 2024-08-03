@@ -5,6 +5,8 @@
 
 <h1 align="center">Hi 👋 there, I'm Iruka Mihishan</h1>
 
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/wline.gif?raw=true">
+
 <p align="center">🚀 Welcome to my GitHub! I'm a passionate full-stack developer, and this is my digital playground where I bring ideas to life through code. Explore my repositories to witness my journey in crafting software solutions. Whether you're here to collaborate, learn, or just curious, feel free to browse around. Together, let's build and innovate! 🚀</p>
 
 <h3 align="center">📫 How to reach me:</h3>
@@ -26,7 +28,7 @@ src="https://img.shields.io/github/followers/dqwe223?logo=github&style=for-the-b
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/omer-akrum-/" target="blank"><img align="center" src="https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg" alt="iruka" height="30" width="40"></a>
+<a href="https://www.linkedin.com/in/iruka-mihishan-37143b197" target="blank"><img align="center" src="https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg" alt="iruka" height="30" width="40"></a>
 <a href="https://irukamihishan.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="iruka" height="30" width="40"></a>
 <a href="https://fb.com/iruka.mihishan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iruka" height="30" width="40" /></a>
 <a href="https://www.instagram.com/iruka_mihishan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iruka" height="30" width="40" /></a>
