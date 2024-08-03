@@ -26,10 +26,11 @@ src="https://img.shields.io/github/followers/dqwe223?logo=github&style=for-the-b
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/omer-akrum-/" target="blank"><img align="center" src="https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg" alt="iruka" height="30" width="40"></a>
+<a href="https://irukamihishan.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="iruka" height="30" width="40"></a>
 <a href="https://fb.com/iruka.mihishan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iruka" height="30" width="40" /></a>
 <a href="https://www.instagram.com/iruka_mihishan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iruka" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/omer-akrum-/" target="blank"><img align="center" src="https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg" alt="kavini_pramudika" height="30" width="40"></a></p>
-<a href="https://irukamihishan.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="iruka" height="30" width="40"></a></p>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
