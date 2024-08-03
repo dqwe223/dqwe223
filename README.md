@@ -185,6 +185,51 @@ src="https://img.shields.io/github/followers/dqwe223?logo=github&style=for-the-b
 
 
 
+
+
+## 🌟 Hello, I'm [Your Name]!
+
+[![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername)](https://www.linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+
+### 👩‍💻 About Me
+I am an **Undergraduate Student** at **Horizon Campus**, currently pursuing a degree in IT. I'm incredibly passionate about technology and aspire to work as a **Software Engineer**. My journey in the world of programming started with a keen interest in solving complex problems and building impactful solutions.
+
+- 💼 I’m looking for internship opportunities in Software Development
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
+- ⚡ Fun fact: I love solving puzzles and reading about space exploration
+
+### 🛠️ Languages and Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFDE57)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=FF6600)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+### 🚀 Projects
+Here are some of my recent projects:
+
+- [**Diabetes Prediction App**](https://your-app-link): A machine learning application using SVM to predict diabetes.
+- [**Image Classification & Object Detection**](https://your-app-link): A web app built with Streamlit for classifying images and detecting objects.
+- [**Project Name**](https://github.com/yourusername/project-name): Brief description of your project.
+
+### 🏆 Achievements
+- **Microsoft Azure Fundamentals:** Earned the 'Describe cloud concepts' trophy.
+- **AWS Online Event:** Attended and learned about essential AWS services.
+- **Feature Engineering Course:** Completed on Kaggle.
+
+### 🌐 Connect with Me
+- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 💬 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
+- 🐦 Twitter: [twitter.com/yourusername](https://twitter.com/yourusername)
+
+
+
+
 <br><br>
 
 
