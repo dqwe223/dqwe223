@@ -10,27 +10,26 @@
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
   <a href="mailto:irukamihishanx@gmail.com">irukamihishanx@gmail.com</a> |
-  <a href="https://irukawcs.blogspot.com/">Portfolio</a> |
-  <a href="https://irukawcs.blogspot.com/">Blogger</a> |
+  <a href="https://irukamihishan.netlify.app">Portfolio</a> |
+  <a href="https://irukamihishan.blogspot.com">Blogger</a> |
   <a href="https://www.linkedin.com/in/iruka-mihishan-37143b197/">LinkedIn</a>
 </p>
 
-- 🌱 I’m currently learning **Java, Python ,c.**
+- 🌱 I’m currently learning **Java, Python ,C.**
 
 - 🤝 I’m looking for help with **web development projects.**
 
-- 💬 Ask me about **C, C++, HTML, CSS, JavaScript, PHP, MySQL.**
+- 💬 Ask me about **C, HTML, CSS, JavaScript, PHP, MySQL, JAVA**
 
 <a href="https://github.com/dqwe223" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dqwe223?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/iruka.mihishan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavini.pramudika" height="30" width="40" /></a>
-<a href="https://www.instagram.com/iruka_mihishan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavini_pramudika" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/omer-akrum-/" target="blank"><img align="center" src="https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg" alt="kavini_pramudika" height="30" width="40"></a>
-</p>
-
+<a href="https://fb.com/iruka.mihishan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iruka" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iruka_mihishan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iruka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omer-akrum-/" target="blank"><img align="center" src="https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg" alt="kavini_pramudika" height="30" width="40"></a></p>
+<a href="https://irukamihishan.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="iruka" height="30" width="40"></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
