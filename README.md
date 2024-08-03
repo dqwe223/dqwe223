@@ -180,7 +180,7 @@ src="https://img.shields.io/github/followers/dqwe223?logo=github&style=for-the-b
   <br/>
 </a>
 <br><br>
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
+<img height="30" alt="Thanks for visiting me" width="100%" src="gif/welcome.svg" />
 
 
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
